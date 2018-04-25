@@ -1,13 +1,12 @@
 #!/bin/python
 
-from __future__ import print_function
+#from __future__ import print_function
 	
 #def main():
 	
-os = ['ubuntu', 'windows', 'fedora' ]
-for operating in os:
-	print operating
-	#print 'operating system:', operating
+os = [(1,2), (3,4), (5,6) ]
+for x in os:
+	print "sistem operasi", x
 
 
 #if __name__ == '__main__':
