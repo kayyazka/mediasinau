@@ -4,7 +4,7 @@
 	
 #def main():
 	
-os = [(1,2), (3,4), (5,6) ]
+os = ["ubuntu", "fedora", "windows" ]
 for x in os:
 	print "sistem operasi", x
 
